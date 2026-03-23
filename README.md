@@ -28,6 +28,6 @@ An initial hypothesis suggested that physicists might die younger than laureates
 - `requirements.txt` → dependencies
 
 ## How to Run
-1. Install dependencies from `requirements.txt`
+1. Install dependencies from `Tools`
 2. Open the notebook in Jupyter Notebook
 3. Run the cells in order
